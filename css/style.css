@@ -54,7 +54,7 @@ body {
   color: #fff;
 }
 
-.header__tel_link{
+.header__tel_link {
   /* padding: 8px 0; */
 }
 
@@ -276,7 +276,7 @@ body {
   margin-bottom: 55px;
 }
 
-.xiz__btn__2{
+.xiz__btn__2 {
   margin-left: 470px;
 }
 
@@ -516,7 +516,7 @@ body {
   color: #00BAFC;
 }
 
-.manus__one-link:active{
+.manus__one-link:active {
   color: #00BAFC;
   opacity: 0.6;
 }
@@ -569,11 +569,11 @@ body {
   margin-bottom: 6px;
 }
 
-.icon_h-a:hover{
+.icon_h-a:hover {
   color: #00BAFC;
 }
 
-.icon_h-a:active{
+.icon_h-a:active {
   color: #00BAFC;
   opacity: 0.6;
 }
